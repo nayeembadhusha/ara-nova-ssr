@@ -1,5 +1,7 @@
 <template>
   <div class="container">
-    <h1>Hello World</h1>
+	  <div id="newClass">
+	    <h1>Hello World</h1>
+	  </div>
   </div>
 </template>
