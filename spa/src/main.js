@@ -18,7 +18,7 @@ document.addEventListener('NovaMount', ({ detail }) => {
   const { name } = detail;
 
   const script = entryPoints[name];
-  console.log('test_revert');console.log(script)
+  console.log('test_revert');
   if (script) {
     loadScript(script);
   }

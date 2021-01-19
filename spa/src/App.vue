@@ -1,7 +1,6 @@
 <template>
   <div id="app">
   <div id="test_revert">
-  <div id="non_remove">
     <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
       <div class="container">
         <div class="navbar-menu">
@@ -13,7 +12,6 @@
     <br/>
     <router-view></router-view>
   	</div>
-  </div>
   </div>
 </template>
 
