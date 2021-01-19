@@ -1,7 +1,10 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
   <div id="test_revert">
   <div id="non_remove">
+=======
+>>>>>>> parent of 056372d... revert changes
     <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
       <div class="container">
         <div class="navbar-menu">
@@ -12,7 +15,6 @@
     </nav>
     <br/>
     <router-view></router-view>
-  	</div>
   </div>
   </div>
 </template>

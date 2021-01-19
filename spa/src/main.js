@@ -18,7 +18,11 @@ document.addEventListener('NovaMount', ({ detail }) => {
   const { name } = detail;
 
   const script = entryPoints[name];
+<<<<<<< HEAD
   console.log('test_revert');console.log(script)
+=======
+
+>>>>>>> parent of 056372d... revert changes
   if (script) {
     loadScript(script);
   }
